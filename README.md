@@ -1,4 +1,4 @@
-#SQL Recipe Book 
+# SQL Recipe Book 
 
 This repository has different .sql files that allow you to do create your first database, and has different examples of how to make queries to the same database. 
 
